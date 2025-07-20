@@ -1,0 +1,79 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.black-1{
+    color: #3A3A3A;
+}
+
+  
+
+.display_flex{
+    display: flex;
+}
+
+.navbar{
+    justify-content: space-between;
+    
+}
+
+.navbar ul li{
+    margin: 34px;
+    list-style: none;
+}
+
+.nav_title{
+    font-size: 1.2rem;
+    margin: 87px 120px;
+   
+}
+
+.nav_portion{
+    font-size: 1rem;
+    margin: 95px 120px;
+}
+
+.start{
+    justify-content: space-between;
+     background-image: url(../images/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin: 74px 120px;
+   
+}
+
+.influencer_title{
+    font-size: 3.2rem;
+     margin: 16px auto;
+}
+
+.influencer_description{
+    font-size: 1rem;
+   
+}
+
+.button-1{
+    background-color: #E02C6D;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none;
+    border-radius: 40px;
+    width: 196px;
+    height: 44px;
+}
+
+
+
